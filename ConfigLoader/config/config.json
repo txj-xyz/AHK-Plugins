@@ -1,0 +1,16 @@
+{
+  "str": "Hello World",
+  "test": "pogger champion",
+  "num": 12345,
+  "float": 123.5,
+  "true": true,
+  "false": false,
+  "null": null,
+  "key_token": "mysecretkeytoken",
+  "array": ["Auto", "Hot", "key"],
+  "object": {
+    "A": "Auto",
+    "H": "Hot",
+    "K": "key"
+  }
+}

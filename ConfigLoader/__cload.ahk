@@ -1,5 +1,5 @@
 ; ---------------------------
-; Script:    __ConfigLoader.ahk
+; Script:    __cload.ahk
 ; License:   Custom
 ; Author:    TXJ (txj-xyz)
 ; Date:      11-23-2023
